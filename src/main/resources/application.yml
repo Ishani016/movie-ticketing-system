@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: movieTicketing
+
+booking:
+  seat-lock-duration: 5m
